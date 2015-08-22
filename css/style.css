@@ -13,11 +13,27 @@ p {font-weight: 200; font-size: 20px;}
 
 .container {margin: 0 auto; width: 600px; height: 400px; padding: 80px 12px; overflow: auto;}
 
-.meta {text-transform: uppercase; font-family: Courier New, Quicksand, "Helvetica Neue", "Arial", sans-serif; font-size: 30px; letter-spacing: .15em;}
+.meta {text-transform: uppercase; font-family: Courier New, Quicksand, "Helvetica Neue", "Arial", sans-serif; font-size: 11px; letter-spacing: .15em;}
 .meta a:hover {border-bottom: 1px solid #CCFF26; color: #333;}
 
 .inline-list {list-style: none; margin: 0; padding: 0;}
 .inline-list li {display: inline-block;}
+
+
+#link1 {
+  color:red;
+  text-decoration:none;
+}
+
+#link2 {
+  color:blue;
+  text-decoration:none;
+}
+
+#link3 {
+  color:yellow;
+  text-decoration:none;
+}
 
 footer .inline-list li {padding-right: 40px;}
 footer {margin: 0 auto; position: absolute; bottom: 0px; padding: 40px 0; width: 600px;}
