@@ -26,17 +26,3 @@ footer .inline-list li {padding-right: 40px;}
 footer {margin: 0 auto; position: absolute; bottom: 0px; padding: 40px 0; width: 600px;}
 
 
-#link1 a {
-  color:red;
-  text-decoration:none;
-}
-
-#link2 a {
-  color:blue;
-  text-decoration:none;
-}
-
-#link3 a {
-  color:yellow;
-  text-decoration:none;
-}
